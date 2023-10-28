@@ -1,8 +1,0 @@
-"Part";"Value";"Device";"Package";"Description";"CHECK_PRICES";"DESCRIPTION";"DIGIKEY_PART_NUMBER";"MF";"MP";"PACKAGE";"PARTNO";"POPULARITY";"PURCHASE-URL";"SNAPEDA_LINK";"SPICEPREFIX";
-"JP1";"";"PINHD-1X3";"1X03";"PIN HEADER";"";"";"";"";"";"";"PPPC031LFBN-RC";"92";"";"";"";
-"LED2";"";"LEDCHIP-LED0805";"CHIP-LED0805";"LED";"";"";"";"";"";"";"EAST2012GA0";"68";"";"";"";
-"R1";"50Ω";"R-EU_R0805";"R0805";"RESISTOR, European symbol";"";"";"";"";"";"";"RT0805FRE0751RL";"86";"";"";"R";
-"R2";"3.3kΩ";"R-EU_R0805";"R0805";"RESISTOR, European symbol";"";"";"";"";"";"";"RC0402FR-073K3L";"86";"";"";"R";
-"R3";"5kΩ";"TRIM_EU-CT6";"CT6";"POTENTIOMETER";"";"";"";"";"";"";"CT-6EP502";"1";"";"";"";
-"R5";"100Ω";"R-EU_R0805";"R0805";"RESISTOR, European symbol";"";"";"";"";"";"";"RC0805FR-07100RL";"86";"";"";"R";
-"U1";"TCRT5000L";"TCRT5000L";"PCBMOUNT";"TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor";"https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda";" Reflective Optical Sensor 0.591 (15mm) PCB Mount ";"";"Vishay";"TCRT5000L";"PCB Mount Vishay Semiconductor";"";"";"https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=229608&manufacturer=Vishay&part_name=TCRT5000L&search_term=None";"https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap";"";
