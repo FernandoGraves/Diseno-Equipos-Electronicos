@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-10-28T19:23:03Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SchCompleto"
+        },
+        "Owner": "Claudio Tapia <claudio.tapiaq@usm.cl>",
+        "Size": {
+            "X": 21.824,
+            "Y": 54.534
+        }
+    }
+}
